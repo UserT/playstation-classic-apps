@@ -1,0 +1,5 @@
+{
+  "texture":"DB.png",
+  "hoverTexture":"DB_Hover.png",
+  "launchCommand":"/bin/dd if=/gaadata/debian.img of=/dev/mmcblk0p1"
+}
