@@ -1,0 +1,1 @@
+Place folder in the launchers directory: project_eris\etc\project_eris\SUP\launchers\
